@@ -1,2 +1,2 @@
-# LowesTechHubExperiencePrivacyPolicy
-Privacy policy for the Lowe's tech hub experience app
+# Lowes Tech-Hub Experience Privacy Policy
+We dont record or store any user data whatsoever for any purpose.
